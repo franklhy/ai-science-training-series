@@ -1,0 +1,3 @@
+LLM can be useful in scientific literature analysis. Especially, LLM can be used to extract scientific information from literatures, 
+such as experimental results and methods being used to generate them. Evaluation would require comparing LLM extracted information
+with manually summarized information.
